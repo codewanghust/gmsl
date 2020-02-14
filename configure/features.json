@@ -1,0 +1,39 @@
+{
+    "features": [
+        {
+            "feature_type": "id_feature",
+            "hash_bucket_size": 10000,
+            "embedding_dimension": 8,
+            "value_type": "String",
+            "feature_name": "item_id"
+        },
+        {
+            "feature_type": "id_feature",
+            "hash_bucket_size": 10000,
+            "embedding_dimension": 8,
+            "value_type": "String",
+            "feature_name": "shop_id"
+        },
+        {
+            "feature_type": "id_feature",
+            "hash_bucket_size": 10000,
+            "embedding_dimension": 8,
+            "value_type": "String",
+            "feature_name": "cate_id"
+        },
+        {
+            "feature_type": "id_feature",
+            "hash_bucket_size": 10000,
+            "embedding_dimension": 8,
+            "value_type": "String",
+            "feature_name": "brand_id"
+        },
+        {
+            "feature_type": "id_feature",
+            "hash_bucket_size": 10000,
+            "embedding_dimension": 8,
+            "value_type": "String",
+            "feature_name": "qid"
+        }
+    ]   
+}
